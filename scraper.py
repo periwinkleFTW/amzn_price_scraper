@@ -58,5 +58,6 @@ def send_mail():
     )
     print("Email has been sent!")
 
+    # Close connection
     server.quit()
 
