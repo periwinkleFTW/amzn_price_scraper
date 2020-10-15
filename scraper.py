@@ -1,6 +1,7 @@
 """
 This file checks a product page of a product on amazon.ca 
 and sends an email if it falls below a certain value
+The link must be added to the URL
 """
 
 
