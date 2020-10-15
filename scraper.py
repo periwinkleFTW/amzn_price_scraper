@@ -62,3 +62,7 @@ def send_mail():
     # Close connection
     server.quit()
 
+while(True):
+    check_price()
+    time.sleep(60) # In seconds
+
