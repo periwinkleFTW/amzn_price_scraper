@@ -56,4 +56,7 @@ def send_mail():
         "password",
         msg,
     )
+    print("Email has been sent!")
+
+    server.quit()
 
